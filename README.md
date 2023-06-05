@@ -1,6 +1,8 @@
 ## 🖥️ Open-Source Projects
 
-### A platform for drug & biomarker screening (Knowledge Graph, Omics Data Analyzer, QC Tools, Data Repo etc.)
+### A platform for drug & biomarker screening
+
+Such as Knowledge Graph, Omics Data Analyzer, QC Tools, Data Repo for BioMedical Models, DL Models etc.
 
 |Title | Language | Description|
 |--|--|--|
