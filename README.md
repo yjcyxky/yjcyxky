@@ -13,6 +13,7 @@ Such as Knowledge Graph, Omics Data Analyzer, QC Tools, Data Repo for BioMedical
 | [BioMiner Indexd](https://github.com/yjcyxky/biominer-indexd) | Rust | Index engine for biomedical data files. We epect it will be a indexing engine for indexing high quality data, such as clinical data (EHR), multi-omics data, whole slide image, etc. |
 | [R Omics Utility](https://github.com/yjcyxky/r-omics-utils) | R | Utilities for omics data with R. It will be part of biomedgps system and provide visulization and analysis functions of multi-omics data. |
 | [PreQC Pack](https://github.com/yjcyxky/preqc-pack) | Rust | A quality control tool for high throughput sequence data. |
+| [BioMedical Knowledgebases](https://github.com/yjcyxky/biomedical-knowledgebases) | Markdown | A collection of biomedical knowledgebases, ontologies, datasets and publications etc. |
   
 ### Next Plans
 
