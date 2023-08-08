@@ -6,7 +6,7 @@ Such as Knowledge Graph, Omics Data Analyzer, QC Tools, Data Repo for BioMedical
 
 |Title | Language | Description|
 |--|--|--|
-| [BioMedGPS](https://github.com/yjcyxky/biomedgps) | Rust, TypeScript, Python | A knowledge graph system with graph neural network for drug discovery, disease mechanism and biomarker screening.|
+| [BioMedGPS](https://github.com/yjcyxky/biomedgps) | Rust, TypeScript, Python | A knowledge graph system with graph neural network for drug repurposing, disease mechanism and biomarker screening.|
 | [Chat Publications](https://github.com/yjcyxky/chat-publications) | Python | Ask questions and get answers from publications.|
 
 ### Online Quality Assessment Platform for Multi-omics Data
