@@ -23,4 +23,17 @@ Such as Knowledge Graph, Omics Data Analyzer, QC Tools, Data Repo for BioMedical
 | [ClinicoOmics Platform](https://github.com/yjcyxky/clinico-omics) | Rust, TypeScript | Online analysis platform for multi-omics data. |
 | [BioMiner Indexd](https://github.com/yjcyxky/biominer-indexd) | Rust | Index engine for biomedical data files. We epect it will be a indexing engine for indexing high quality data, such as clinical data (EHR), multi-omics data, whole slide image, etc. |
 | [PreQC Pack](https://github.com/yjcyxky/preqc-pack) | Rust | A quality assessment tool for high throughput sequence data. |
-  
+
+### Knowledge Curation and Databases
+
+| Title | Description|
+|--|--|
+| [GuideScoper](https://biosolver.cn/) | Find the Best sgRNAs and Design top-scoring guide RNAs for gene knockout |
+| [GlioMarker](http://gliomarker.prophetdb.org/#/home) | An integrated Database for Knowledge Exploration of Diagnostic Biomarkers in Gliomas |
+
+### Collections
+
+| Title | Description |
+|--|--|
+| [Antibody DL](https://github.com/yjcyxky/antibody-dl) | A Collection of Platform, Tools, and Resources for Antibody Engineering|
+| [BioMedical Knowledgebases](https://github.com/yjcyxky/biomedical-knowledgebases) | A collection of biomedical knowledgebases, ontologies, and datasets. |
