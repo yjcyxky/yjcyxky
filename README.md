@@ -20,7 +20,7 @@ Such as Knowledge Graph, Omics Data Analyzer, QC Tools, Data Repo for BioMedical
 |Title | Language | Description|
 |--|--|--|
 | [Choppy Pipe](https://github.com/yjcyxky/choppy-pipe) | Python | Choppy is a command-line & web tool for executing WDL workflows on Cromwell servers. (Based on widdler, but more.) |
-| [ClinicoOmics Platform](https://github.com/yjcyxky/clinico-omics) | Rust, TypeScript | Online analysis platform for multi-omics data. |
+| [BioMiner](https://github.com/yjcyxky/biominer) | Clojure, Vue | Online analysis platform for multi-omics data. |
 | [BioMiner Indexd](https://github.com/yjcyxky/biominer-indexd) | Rust | Index engine for biomedical data files. We epect it will be a indexing engine for indexing high quality data, such as clinical data (EHR), multi-omics data, whole slide image, etc. |
 | [PreQC Pack](https://github.com/yjcyxky/preqc-pack) | Rust | A quality assessment tool for high throughput sequence data. |
 
