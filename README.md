@@ -28,6 +28,7 @@ Such as Knowledge Graph, Omics Data Analyzer, QC Tools, Data Repo for BioMedical
 
 | Title | Description|
 |--|--|
+|[Prophet Studio](https://github.com/yjcyxky/prophet-studio) |	A data labeling and annotation tool for biomedical publications.|
 | [GuideScoper](https://biosolver.cn/) | Find the Best sgRNAs and Design top-scoring guide RNAs for gene knockout |
 | [GlioMarker](http://gliomarker.prophetdb.org/#/home) | An integrated Database for Knowledge Exploration of Diagnostic Biomarkers in Gliomas |
 
